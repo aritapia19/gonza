@@ -9,7 +9,7 @@
 
 body {
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/background\ car.webp) no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/background\ car.webp) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -436,3 +436,4 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
